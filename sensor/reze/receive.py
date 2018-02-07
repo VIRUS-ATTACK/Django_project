@@ -4,8 +4,8 @@ import imaplib
 import email
 
 ORG_EMAIL   = "@gmail.com"
-FROM_EMAIL  = "pavankalyan.d16@gmail.com"
-FROM_PWD    = "SUrya5412417"
+FROM_EMAIL  = "enter your gmail yousername"
+FROM_PWD    = "enter your gmail password"
 SMTP_SERVER = "imap.gmail.com"
 
 
